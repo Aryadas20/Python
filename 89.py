@@ -1,5 +1,5 @@
-import requests 
-from bs4 import BeautifulSoup
+# import requests 
+# from bs4 import BeautifulSoup
 # url = "https://www.codewithharry.com/blogpost/django-cheatsheet/"
 # r = requests.get(url)
 # # print(r.text)
@@ -24,5 +24,5 @@ from bs4 import BeautifulSoup
 # print(response.text) 
 
 
-response = requests.get("https:https://awsacademy.instructure.com/courses/39261/modules")
-print(response.text)
+# response = requests.get("https:https://awsacademy.instructure.com/courses/39261/modules")
+# print(response.text)
