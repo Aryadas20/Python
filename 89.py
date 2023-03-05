@@ -1,4 +1,4 @@
-from  import requests 
+import requests 
 # from bs4 import BeautifulSoup
 # url = "https://www.codewithharry.com/blogpost/django-cheatsheet/"
 # r = requests.get(url)
